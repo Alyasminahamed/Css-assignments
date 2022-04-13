@@ -1,0 +1,32 @@
+/*first task*/
+ .parent .child .title{
+    color: red;
+}
+.parent .title{
+    color: blue;
+}
+.parent p,
+.title
+{
+    color: green;
+}
+/*
+.title {
+    color: green;
+}*/
+
+/*second task*/
+.one,
+.two,
+.three,
+.four{
+    max-width: 400px;
+    color: white;
+    font-weight: bold;
+    background-color: red;
+    height: 50px;
+    width:fit-content ;
+    padding: 20px;
+    margin: 20px 0;
+    overflow: hidden;
+}

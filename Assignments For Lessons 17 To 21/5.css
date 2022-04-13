@@ -1,0 +1,77 @@
+/*first task*/
+.one1 p{
+    padding: 20px;
+    margin: 20px auto;
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+    text-shadow: 2px 2px 0 rgb(234, 47, 30), 4px 4px 0 rgb(3, 144, 251), 6px 6px 0 violet ;
+}
+/*second task*/
+.one,
+.two,
+.three{
+    padding: 20px;
+    margin: 20px auto;
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+}
+.one{
+    text-transform: uppercase;
+}
+.two{
+    text-transform:capitalize;
+}
+.three{
+    text-transform: lowercase;
+}
+/*third task*/
+.four{
+    background-color: #eee;
+    padding: 20px;
+    margin: 20px auto;
+    width: 400px;
+    text-align: center;
+    font-size: 20px;
+}
+.five{
+    background-color: #eee;
+    padding: 20px;
+    margin: 20px auto;
+    width: 400px;
+    text-align: center;
+    font-size: 20px;
+    overflow: hidden;
+    white-space: nowrap;
+}
+
+.six{
+    background-color: #eee;
+    padding: 20px;
+    margin: 20px auto;
+    width: 400px;
+    text-align: center;
+    font-size: 20px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+/*third task*/
+.seven{
+    background-color: #1ca396;
+    padding: 20px;
+    display: block;
+    margin: 20px auto;
+    width: fit-content;
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+    font-family: arial;
+    text-transform: capitalize;
+    border-bottom: 15px solid #134c47;
+}
+.seven a{
+    color: white;
+    text-decoration: none;
+}

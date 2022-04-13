@@ -1,0 +1,61 @@
+/*first task*/
+.one{
+    margin: 20px auto;
+    padding: 20px;
+    text-align: center;
+    border: 5px solid orangered;
+    width: 800px;
+}
+.one1{
+    padding: 20px;
+    border: 5px solid orangered;
+    font-size: 40px;
+    font-weight: bold;
+    background-color: #eee;
+}
+.two{
+    margin: 20px auto;
+    padding: 20px;
+    text-align: center;
+    border: 5px solid rgb(0, 149, 160);
+    width: 800px;
+}
+.two1{
+    padding: 20px;
+    border: 5px solid rgb(0, 149, 160);
+    font-size: 40px;
+    font-weight: bold;
+    background-color: #eee;
+}
+/*second tasks */
+.three,
+.four{
+    padding: 20px;
+    margin: 20px auto;
+    width: 800px;
+    text-align: center;
+}
+.three1{
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 300;
+    font-style: italic;
+}
+.three2{
+    font-family:  'Cairo', sans-serif;
+    font-weight: 700;
+    
+}
+.three3{
+    font-family: 'Jomolhari', serif;
+    font-weight: 400;
+}
+/*third tasks */
+.four1{
+    font-size: 2.5rem;
+}
+.four2{
+    font-size: 2rem;
+}
+.four3{
+    font-size: 1.5rem; 
+}

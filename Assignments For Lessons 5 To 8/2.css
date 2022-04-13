@@ -1,0 +1,109 @@
+/*first task */
+
+.one div{
+    margin: 20px auto;
+    width: 500px;
+    padding: 20px;
+    color: white;
+}
+
+.assign-1-shape-1 { 
+    background-color: blueviolet; 
+    background-color: rgb(138, 43, 226);
+    background-color: hsl(271, 76%, 53%);
+    background-color: #8a2be2;
+}
+.assign-1-shape-2 {
+    background-color: rgb(138 43 226 / 50%);
+
+}
+.assign-1-shape-3 {
+    background-color: rgb(138 43 226 / 10%);
+
+}
+/*second task */
+.two div{
+    width: 400px;
+    height: 400px;
+    padding: 20px;
+    margin: 20px auto;
+    color: white;
+    background-color: rgb(187, 181, 181);
+}
+.assign-2-shape-1{
+    background-image: url(css-assignment-5-8.png);
+    background-repeat: no-repeat;
+}
+.assign-2-shape-2{
+    background-image: url(css-assignment-5-8.png);
+    background-repeat: repeat-y;
+}
+.assign-2-shape-3{
+    background-image: url(css-assignment-5-8.png);
+    background-repeat: repeat-x;
+}
+.assign-2-shape-4{
+    background-image: url(css-assignment-5-8.png);
+
+}
+/*third task */
+.three div{
+    width: 400px;
+    height: 400px;
+    padding: 20px;
+    margin: 20px auto;
+    color: white;
+    background-color: rgb(187, 181, 181);
+}
+.assign-3-shape-1{
+    background-image: url(css-assignment-5-8.png);
+    background-repeat: no-repeat;
+}
+.assign-3-shape-2{
+    background-image: url(css-assignment-5-8.png);
+    background-repeat: repeat-y;
+    background-position: right;
+
+}
+.assign-3-shape-3{
+    background-image: url(css-assignment-5-8.png);
+    background-repeat: repeat-x;
+    background-position: bottom;
+}
+.assign-3-shape-4{
+    background-image: url(css-assignment-5-8.png);
+    background-repeat: repeat;
+}
+
+
+/*fourth task */
+.four div{
+    width: 400px;
+    height: 400px;
+    padding: 20px;
+    margin: 20px auto;
+    color: white;
+    background-color: rgb(187, 181, 181);
+}
+.assign-4-shape-1{
+    background-image: url(css-assignment-5-8.png);
+    background-repeat: no-repeat;
+    background-size: 80%;
+}
+.assign-4-shape-2{
+    background-image: url(css-assignment-5-8.png);
+    background-repeat: repeat-y;
+    background-position: right;
+    background-size: 70%;
+}
+.assign-4-shape-3{
+    background-image: url(css-assignment-5-8.png);
+    background-repeat: repeat-x;
+    background-position: bottom;
+    background-size: 70%;
+}
+.assign-4-shape-4{
+    background-image: url(css-assignment-5-8.png);
+    background-repeat: no-repeat;
+    background-position:bottom right;
+}

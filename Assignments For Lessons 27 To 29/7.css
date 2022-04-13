@@ -1,0 +1,67 @@
+/*first task*/
+.all{
+    margin: 15px auto;
+    padding: 15px;
+    background-color: #eee;
+    width: 800px;
+    
+}
+.all1{
+    height: 40px;
+    padding: 15px;
+    background-color: #ccc;
+    text-align: center;
+}
+.one p{
+    text-align: center; 
+    background-color: #ccc;
+    height: 20px;
+    padding: 10px 0;
+    font-weight: bold;
+    margin-top: 15x;
+    margin-left: 15px;
+    margin-bottom: 15px;
+    width: 30%;
+    display: inline-block;   
+}
+
+.two p{
+    text-align: center; 
+    background-color: #ccc;
+    height: 20px;
+    padding: 10px 0;
+    font-weight: bold;
+    margin: 16px ;
+    width: 45%;
+    display: inline-block;   
+}
+
+.three p{
+    text-align: center; 
+    background-color: #ccc;
+    height: 20px;
+    padding: 10px 0;
+    font-weight: bold;
+    margin: 17px ;
+    width: 20%;
+    display: inline-block;   
+
+}
+/*second task*/
+.normal,
+.one1,
+.two2 {
+    margin: 20px auto;
+    width: 300px;
+    font-weight: bold;
+    font-size: 1rem;
+    padding: 20px;
+    background-color: rgb(179, 179, 179); /* Get The Background From Image */
+    color: black;
+  }
+.all2 .one1{
+    background-color: rgb(179, 179, 179 /.1);
+}
+.all2 .two2{
+    opacity: .1;
+}

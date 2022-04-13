@@ -1,0 +1,44 @@
+/*first task */
+.first div{
+    display: inline-block;
+    width: 25%;
+    margin: 20px;
+    background-color: #eee;
+    height: 100px;
+    text-align: center;
+    padding-top: 50px;
+}
+.one{
+    border: 15px solid red;
+    outline: 15px solid;
+}
+.two{
+    border-width:15px ;
+    border-style: solid;
+    border-color: blue green;
+    outline: 15px solid;
+}
+.three{
+    border-width:15px ;
+    border-style: dashed;
+    border-color:red green blue yellow;
+    outline: 15px solid;
+}
+.second div{
+    width: 30%;
+    text-align: center;
+    padding: 20px;
+    background-color: #eee;
+    height: 50px;
+    display: inline-block;
+    margin: 20px;
+    outline: 15px solid #eee;
+
+}
+.four{
+    border-left: 15px solid rgb(211, 51, 144);
+}
+.five{
+    border-left: 15px solid rgb(21, 122, 229);
+
+}
